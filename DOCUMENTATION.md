@@ -9,6 +9,8 @@
 6. [Segment Trees](./DS%20implementations/FENWICK%20TREES/)
 7. [Fenwick Trees](./DS%20implementations/FENWICK%20TREES)
 8. [Stacks](./DS%20implementations/STACKS)
+9. [Queues](./DS%20implementations/QUEUES)
+10. [Linked List](./DS%20implementations/Linked%20List)
 
 ### Important Algorithms
 
@@ -81,6 +83,6 @@
 <h2 align="center">Searching Algorithms</h2>
 
 1. [Binary Search](./Algorithms/Search/binarySearch.cp)
-
+2. [Linear search]( ./Algorithms/Search/binarySearch.cp)
 
 
